@@ -17,7 +17,7 @@ func main() {
 	}
 
 	var u user
-	u.ID = 123
+
 	u.FirstName = "Samuel"
 	u.LastName = "Toh"
 	fmt.Println(u)
